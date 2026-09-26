@@ -1,21 +1,12 @@
-# Hi, I'm Hrishank
+## Backend developer...
 
-**Backend Developer**
 
-I build backend applications using Java and Spring Boot.
+### Languages: `HTML, CSS, JavaScript, Java`
+### Frameworks: `Spring Boot`
+### Databases: `MySQL, PostgreSQL`
+### Tools: `Maven, Git, Github`
 
-## Languages
-Java · JavaScript
 
-## Framework
-Spring Boot
+### Connect:
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](def17062026@gmail.com)
 
-## Database
-MySQL · PostgreSQL
-
-## Tools
-Git · GitHub · Maven
-
-## GitHub Stats
-
-![GitHub Activity](./dist/activity-graph.svg)
