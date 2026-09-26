@@ -1,19 +1,21 @@
-Tech Stack
+# Hi, I'm [Hrishank]
 
-Languages & Frameworks
+**Backend Developer**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,html,css,js,react" alt="Java, Spring, Hibernate, HTML, CSS, JavaScript, React" />
-</p>
+I build backend applications using Java and Spring Boot.
 
-Databases
+## Languages
+Java · JavaScript
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="MySQL, PostgreSQL" />
-</p>
+## Framework
+Spring Boot
 
-Tools
+## Database
+MySQL · PostgreSQL
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=maven,git,github" alt="Maven, Git, GitHub" />
-</p>
+## Tools
+Git · GitHub · Maven
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true&hide_border=true)
