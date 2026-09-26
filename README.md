@@ -1,4 +1,6 @@
-## Backend Developer...
+## Backend Developer, aiming for Full Stack...
+
+<br>
 
 **Languages:** `HTML, CSS, JavaScript, Java` <br>
 **Frameworks:** `Spring Boot` <br>
