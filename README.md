@@ -1,7 +1,5 @@
 ## Backend Developer...
 
-<br>
-
 **Languages:** `HTML, CSS, JavaScript, Java` <br>
 **Frameworks:** `Spring Boot` <br>
 **Databases:** `MySQL, PostgreSQL` <br>
