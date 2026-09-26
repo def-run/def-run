@@ -1,4 +1,4 @@
-# Hi, I'm [Hrishank]
+# Hi, I'm Hrishank
 
 **Backend Developer**
 
@@ -18,4 +18,4 @@ Git · GitHub · Maven
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=def-run&show_icons=true&hide_title=true&hide_border=true)
