@@ -11,5 +11,5 @@
 
 ### Connect
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:def17062026@gmail.com)
+[![Email](https://img.shields.io/badge/def17062026%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:def17062026@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrishank-50a707400/)
